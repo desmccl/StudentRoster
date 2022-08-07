@@ -1,0 +1,6 @@
+﻿  Student.cpp
+  main.cpp
+  roster.cpp
+C:\Users\desir\Desktop\c++practice\PA_C867\PA_C867\roster.cpp(56,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  PA_C867.vcxproj -> C:\Users\desir\Desktop\c++practice\PA_C867\x64\Debug\PA_C867.exe
